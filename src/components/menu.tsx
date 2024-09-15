@@ -30,6 +30,9 @@ const Menu = ({ session }: { session: Session | null }) => {
             <Link href={"/dashboard"}>Dashboard</Link>
           </DropdownMenuItem>
           <DropdownMenuItem>
+            <Link href={"/6-week-cycle"}>6 week cycle</Link>
+          </DropdownMenuItem>
+          <DropdownMenuItem>
             <form
               className="w-full"
               action={async () => {

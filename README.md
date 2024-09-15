@@ -5,6 +5,8 @@
 2. favicon
 3. logo
 4. good name
+5. useOptimistic hook in dashboard - inc/dec
+6. 
 
 5. team page
     - dynamic rendering the chart data ✅
